@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2AA8Ff2eD942985320343CE362e0c68D203d595f",
+  "SCAN_LINK": "https://etherscan.io/address/0x2aa8ff2ed942985320343ce362e0c68d203d595f",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Wicked_Worlds_NFT",
+  "SYMBOL": "WickedWorlds",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 6900000000000000,
+  "DISPLAY_COST": 0.0069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wicked-worlds-nft",
+  "SHOW_BACKGROUND": true
+}
